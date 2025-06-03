@@ -7,7 +7,6 @@
 ## CNN-based VPR
 
 | Title | First Author | Venue | Github | Bibtex |
-|---|---|---|---|---|
 
 
 
