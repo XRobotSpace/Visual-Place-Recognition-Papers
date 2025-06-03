@@ -1,0 +1,8 @@
+@incollection{quteprints79662,
+  author = {Zetao Chen and Obadiah Lam and Adam Jacobson and Michael Milford},
+  title = {Convolutional neural network-based place recognition},
+  booktitle = {Proceedings of the 16th Australasian Conference on Robotics and Automation 2014},
+  pages = {1--8},
+  year = {2014},
+  publisher = {Australian Robotics and Automation Association (ARAA)},
+}
