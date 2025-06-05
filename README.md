@@ -8,7 +8,6 @@ Summary of papers on visual place recognition.
 - Talks
 
 ## Papers
-<details open>
 ### CNN-based VPR
 
 | Title | First Author | Venue | Github | Bibtex |
