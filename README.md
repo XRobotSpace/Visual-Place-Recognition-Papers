@@ -7,8 +7,8 @@ Summary of papers on visual place recognition.
   - CNN-based VPR
 - Talks
 
-
-## CNN-based VPR
+## Papers
+<summary> CNN-based VPR </summary>
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
