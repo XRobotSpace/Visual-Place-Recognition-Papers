@@ -4,12 +4,12 @@ Summary of papers on visual place recognition.
 ## Table of Contents
 - Papers
   - Surveys
-  - [Papers](#Papers)
+  - [CNN-based VPR](#CNN-based VPR)
 - Talks
 
 ## Papers
 <details open>
-<summary> ### CNN-based VPR </summary>
+### CNN-based VPR
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
