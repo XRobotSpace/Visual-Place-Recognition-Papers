@@ -14,3 +14,4 @@ Summary of papers on visual place recognition.
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
 | [Convolutional Neural Network-based Place Recognition](https://eprints.qut.edu.au/79662/) | Zetao, Chen | ACRA 2014 |  | [BibTex](citations/Chen_2014_Convolutional.txt) |
+| [On the performance of ConvNet features for place recognition](https://ieeexplore.ieee.org/document/7353986) | Niko Sünderhauf | IROS 2015 |  | [BibTex](citations/Sunderhauf_2015_On.txt) |
