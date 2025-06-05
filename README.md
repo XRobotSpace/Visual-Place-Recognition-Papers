@@ -1,7 +1,11 @@
 # Visual-Place-Recognition-Papers
+Summary of papers on visual place recognition.
 
 ## Table of Contents
-
+- Papers
+  - Surveys
+  - CNN-based VPR
+- Talks
 
 
 ## CNN-based VPR
