@@ -9,7 +9,7 @@ Summary of papers on visual place recognition.
 
 ## Papers
 <details open>
-<summary> CNN-based VPR </summary>
+<summary> ### CNN-based VPR </summary>
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
