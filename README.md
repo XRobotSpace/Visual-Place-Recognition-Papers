@@ -11,6 +11,6 @@ Summary of papers on visual place recognition.
 <details open>
 <summary> CNN-based VPR </summary>
 
-| Title | First Author | | Institution | Venue | Github | Bibtex |
+| Title | First Author | Institution | Venue | Github | Bibtex |
 |---|---|---|---|---|---|
 | [Convolutional Neural Network-based Place Recognition](https://eprints.qut.edu.au/79662/) | Zetao, Chen | QUT | ACRA 2014 |  | [BibTex](citations/Chen_2014_Convolutional.txt) |
