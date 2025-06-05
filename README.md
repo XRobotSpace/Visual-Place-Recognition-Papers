@@ -4,7 +4,7 @@ Summary of papers on visual place recognition.
 ## Table of Contents
 - Papers
   - Surveys
-  - CNN-based VPR(#CNN-based VPR)
+  - [CNN-based VPR](#CNN-based VPR)
 - Talks
 
 ## Papers
