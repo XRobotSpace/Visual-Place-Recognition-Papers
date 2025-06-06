@@ -1,0 +1,6 @@
+@article{gomez2015training,
+  title={Training a convolutional neural network for appearance-invariant place recognition},
+  author={Gomez-Ojeda, Ruben and Lopez-Antequera, Manuel and Petkov, Nicolai and Gonzalez-Jimenez, Javier},
+  journal={arXiv preprint arXiv:1505.07428},
+  year={2015}
+}
