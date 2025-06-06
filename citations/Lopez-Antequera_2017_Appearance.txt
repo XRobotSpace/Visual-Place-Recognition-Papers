@@ -1,0 +1,9 @@
+@article{lopez2017appearance,
+  title={Appearance-invariant place recognition by discriminatively training a convolutional neural network},
+  author={Lopez-Antequera, Manuel and Gomez-Ojeda, Ruben and Petkov, Nicolai and Gonzalez-Jimenez, Javier},
+  journal={Pattern Recognition Letters},
+  volume={92},
+  pages={89--95},
+  year={2017},
+  publisher={Elsevier}
+}
