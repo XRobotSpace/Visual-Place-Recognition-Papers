@@ -2,5 +2,6 @@
   title={Only look once, mining distinctive landmarks from convnet for visual place recognition. In 2017 IEEE},
   author={Chen, Zetao and Maffra, Fabiola and Sa, Inkyu and Chli, Margarita},
   booktitle={RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={9--16}
+  pages={9--16},
+  year={2017},
 }
