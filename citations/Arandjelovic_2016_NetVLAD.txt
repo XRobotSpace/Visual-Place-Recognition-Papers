@@ -1,0 +1,7 @@
+@INPROCEEDINGS{7780941,
+  author={Arandjelovic, Relja and Gronat, Petr and Torii, Akihiko and Pajdla, Tomas and Sivic, Josef},
+  booktitle={2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={NetVLAD: CNN Architecture for Weakly Supervised Place Recognition}, 
+  year={2016},
+  pages={5297-5307},
+}
