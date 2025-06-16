@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Garg-RSS-18, 
+    AUTHOR    = {Sourav Garg AND Niko Suenderhauf AND Michael Milford}, 
+    TITLE     = {LoST? Appearance-Invariant Place Recognition for Opposite Viewpoints using Visual Semantics}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2018}, 
+    ADDRESS   = {Pittsburgh, Pennsylvania}, 
+    MONTH     = {June}, 
+    DOI       = {10.15607/RSS.2018.XIV.022} 
+} 
+  
