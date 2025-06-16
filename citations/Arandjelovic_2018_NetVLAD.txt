@@ -1,0 +1,9 @@
+@ARTICLE{7937898,
+  author={Arandjelović, Relja and Gronat, Petr and Torii, Akihiko and Pajdla, Tomas and Sivic, Josef},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={NetVLAD: CNN Architecture for Weakly Supervised Place Recognition}, 
+  year={2018},
+  volume={40},
+  number={6},
+  pages={1437-1451},
+}
