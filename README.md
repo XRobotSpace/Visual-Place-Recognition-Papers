@@ -24,3 +24,4 @@ Summary of papers on visual place recognition.
 | [NetVLAD: CNN architecture for weakly supervised place recognition](https://ieeexplore.ieee.org/document/7937898) | Relja Arandjelovic | INRIA | TPAMI 2018 | [Github](https://github.com/Relja/netvlad) [Project](https://www.di.ens.fr/willow/research/netvlad/) | [BibTex](citations/Arandjelovic_2018_NetVLAD.txt) |
 | [LoST? Appearance-Invariant Place Recognition for Opposite Viewpoints using Visual Semantics](https://www.roboticsproceedings.org/rss14/p22.html) | Sourav Garg | QUT | RSS 2018 | [Github](https://github.com/oravus/lostX) | [BibTex](citations/Garg_2018_LoST.txt) |
 | [Semantic–geometric visual place recognition: a new perspective for reconciling opposing views](https://journals.sagepub.com/doi/abs/10.1177/0278364919839761) | Sourav Garg | QUT | IJRR 2022 |  | [BibTex](citations/Garg_2022_Semantic.txt) |
+
