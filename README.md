@@ -25,4 +25,5 @@ Summary of papers on visual place recognition.
 | [LoST? Appearance-Invariant Place Recognition for Opposite Viewpoints using Visual Semantics](https://www.roboticsproceedings.org/rss14/p22.html) | Sourav Garg | QUT | RSS 2018 | [Github](https://github.com/oravus/lostX) | [BibTex](citations/Garg_2018_LoST.txt) |
 | [Semantic–geometric visual place recognition: a new perspective for reconciling opposing views](https://journals.sagepub.com/doi/abs/10.1177/0278364919839761) | Sourav Garg | QUT | IJRR 2022 |  | [BibTex](citations/Garg_2022_Semantic.txt) |
 | [Rethinking Visual Geo-localization for Large-Scale Applications](https://ieeexplore.ieee.org/document/9880209) | Gabriele Berton | Polito | CVPR 2022 | [Github](https://github.com/gmberton/CosPlace) | [BibTex](citations/Berton_2022_Rethinking.txt) |
+| [GSV-CITIES: Toward appropriate supervised visual place recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231222012188) | Amar Ali-bey | Laval | Neurocomputing 2022 | [Github](https://github.com/amaralibey/gsv-cities) [Project](https://www.kaggle.com/datasets/amaralibey/gsv-cities) | [BibTex](citations/Ali-bey_2022_GSV-CITIES.txt) |
 
