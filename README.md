@@ -2,10 +2,17 @@
 Summary of papers on visual place recognition.
 
 ## Table of Contents
+- [Datasets](#Datasets)
 - [Papers](#Papers)
   - Surveys
   - [CNN-based VPR](#CNN-based)
 - Talks
+
+## Datasets
+| Datasets | Papers | Github |
+|---|---|---|
+| GSV-CITIES | [GSV-CITIES: Toward appropriate supervised visual place recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231222012188) | [Github](https://github.com/amaralibey/gsv-cities) [Project](https://www.kaggle.com/datasets/amaralibey/gsv-cities) |
+
 
 ## Papers
 ### CNN-based
