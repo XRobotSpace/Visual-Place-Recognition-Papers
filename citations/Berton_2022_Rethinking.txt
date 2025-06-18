@@ -1,0 +1,8 @@
+@InProceedings{Berton_2022_CVPR,
+    author    = {Berton, Gabriele and Masone, Carlo and Caputo, Barbara},
+    title     = {Rethinking Visual Geo-Localization for Large-Scale Applications},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {4878-4888}
+}
