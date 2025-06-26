@@ -36,3 +36,6 @@ Summary of papers on visual place recognition.
 | [MixVPR: Feature Mixing for Visual Place Recognition](https://ieeexplore.ieee.org/document/10030191) | Amar Ali-bey | Laval | WACV 2023 | [Github](https://github.com/amaralibey/MixVPR) | [BibTex](citations/Ali-bey_2023_MixVPR.txt) |
 | [StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition](https://ieeexplore.ieee.org/document/10203530) | Shen | XJTU | CVPR 2023 |  | [BibTex](citations/Shen_2023_StructVPR.txt) |
 | [EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://ieeexplore.ieee.org/document/10377066) | Berton | Torino | ICCV 2023 | [Github](https://github.com/amaralibey/gsv-cities) | [BibTex](citations/Berton_2023_EigenPlaces.txt) |
+| [MIXVPR++: Enhanced Visual Place Recognition With Hierarchical-Region Feature-Mixer and Adaptive Gabor Texture Fuser](https://ieeexplore.ieee.org/document/10777538) | Nie | NEU | RAL 2025 |  | [BibTex](citations/Nie_2025_MIXVPR++.txt) |
+
+
