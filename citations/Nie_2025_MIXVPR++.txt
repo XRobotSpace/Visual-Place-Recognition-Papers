@@ -1,0 +1,9 @@
+@ARTICLE{10777538,
+  author={Nie, Jiwei and Xue, Dingyu and Pan, Feng and Cheng, Shuai and Liu, Wei and Hu, Jun and Ning, Zuotao},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={MIXVPR++: Enhanced Visual Place Recognition With Hierarchical-Region Feature-Mixer and Adaptive Gabor Texture Fuser}, 
+  year={2025},
+  volume={10},
+  number={1},
+  pages={580-587},
+}
