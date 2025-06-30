@@ -11,6 +11,7 @@ Summary of papers on visual place recognition.
 ## Datasets
 | Datasets | Papers | Github |
 |---|---|---|
+| SPED | [Deep Learning Features at Scale for Visual Place Recognition](https://ieeexplore.ieee.org/abstract/document/7989366) | [Github](https://github.com/scutzetao/DLfeature_PlaceRecog_icra2017) [Github](https://github.com/fshamshirdar/place-recognition) |
 | GSV-CITIES | [GSV-CITIES: Toward appropriate supervised visual place recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231222012188) | [Github](https://github.com/amaralibey/gsv-cities) [Project](https://www.kaggle.com/datasets/amaralibey/gsv-cities) |
 
 
