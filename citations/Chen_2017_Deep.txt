@@ -1,7 +1,7 @@
 @inproceedings{chen2017deep,
   title={Deep learning features at scale for visual place recognition},
   author={Chen, Zetao and Jacobson, Adam and S{\"u}nderhauf, Niko and Upcroft, Ben and Liu, Lingqiao and Shen, Chunhua and Reid, Ian and Milford, Michael},
-  booktitle={2017 IEEE international conference on robotics and automation (ICRA)},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
   pages={3223--3230},
   year={2017},
   organization={IEEE}
