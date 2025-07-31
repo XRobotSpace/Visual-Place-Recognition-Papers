@@ -40,7 +40,7 @@ Summary of papers on visual place recognition.
 | [MIXVPR++: Enhanced Visual Place Recognition With Hierarchical-Region Feature-Mixer and Adaptive Gabor Texture Fuser](https://ieeexplore.ieee.org/document/10777538) | Jiwei Nie | NEU | RAL 2025 |  | [BibTex](citations/Nie_2025_MIXVPR++.txt) |
 
 
-### CNN-based
+### Transformer-based
 
 | Title | First Author | Institution | Venue | Github | Bibtex |
 |---|---|---|---|---|---|
