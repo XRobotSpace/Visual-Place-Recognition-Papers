@@ -1,7 +1,7 @@
 @inproceedings{arroyo2016fusion,
   title={Fusion and binarization of CNN features for robust topological localization across seasons},
   author={Arroyo, Roberto and Alcantarilla, Pablo F and Bergasa, Luis M and Romera, Eduardo},
-  booktitle={2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   pages={4656--4663},
   year={2016},
   organization={IEEE}
