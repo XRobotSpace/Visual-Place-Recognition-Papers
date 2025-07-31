@@ -44,4 +44,4 @@ Summary of papers on visual place recognition.
 
 | Title | First Author | Institution | Venue | Github | Bibtex |
 |---|---|---|---|---|---|
-| [TransVPR: Transformer-Based Place Recognition with  Multi-Level Attention Aggregation]([https://eprints.qut.edu.au/79662/](https://ieeexplore.ieee.org/document/9879296)) | Ruotong Wang | XJTU | CVPR 2022 | [Github](https://github.com/RuotongWANG/TransVPR-model-implementation) | [BibTex](citations/Wang_2022_TransVPR.txt) |
+| [TransVPR: Transformer-Based Place Recognition with  Multi-Level Attention Aggregation](https://ieeexplore.ieee.org/document/9879296) | Ruotong Wang | XJTU | CVPR 2022 | [Github](https://github.com/RuotongWANG/TransVPR-model-implementation) | [BibTex](citations/Wang_2022_TransVPR.txt) |
