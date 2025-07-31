@@ -36,7 +36,7 @@ Summary of papers on visual place recognition.
 | [GSV-CITIES: Toward appropriate supervised visual place recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231222012188) | Amar Ali-bey | Laval | Neurocomputing 2022 | [Github](https://github.com/amaralibey/gsv-cities) [Project](https://www.kaggle.com/datasets/amaralibey/gsv-cities) | [BibTex](citations/Ali-bey_2022_GSV-CITIES.txt) |
 | [MixVPR: Feature Mixing for Visual Place Recognition](https://ieeexplore.ieee.org/document/10030191) | Amar Ali-bey | Laval | WACV 2023 | [Github](https://github.com/amaralibey/MixVPR) | [BibTex](citations/Ali-bey_2023_MixVPR.txt) |
 | [StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition](https://ieeexplore.ieee.org/document/10203530) | Yanqing Shen | XJTU | CVPR 2023 |  | [BibTex](citations/Shen_2023_StructVPR.txt) |
-| [EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://ieeexplore.ieee.org/document/10377066) | Berton | Torino | ICCV 2023 | [Github](https://github.com/amaralibey/gsv-cities) | [BibTex](citations/Berton_2023_EigenPlaces.txt) |
+| [EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://ieeexplore.ieee.org/document/10377066) | Gabriele Berton | Torino | ICCV 2023 | [Github](https://github.com/amaralibey/gsv-cities) | [BibTex](citations/Berton_2023_EigenPlaces.txt) |
 | [MIXVPR++: Enhanced Visual Place Recognition With Hierarchical-Region Feature-Mixer and Adaptive Gabor Texture Fuser](https://ieeexplore.ieee.org/document/10777538) | Jiwei Nie | NEU | RAL 2025 |  | [BibTex](citations/Nie_2025_MIXVPR++.txt) |
 
 
