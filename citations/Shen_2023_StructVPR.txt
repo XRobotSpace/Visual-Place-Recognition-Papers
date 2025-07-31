@@ -1,7 +1,7 @@
 @inproceedings{shen2023structvpr,
   title={Structvpr: Distill structural knowledge with weighting samples for visual place recognition},
   author={Shen, Yanqing and Zhou, Sanping and Fu, Jingwen and Wang, Ruotong and Chen, Shitao and Zheng, Nanning},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition （CVPR）},
   pages={11217--11226},
   year={2023}
 }
