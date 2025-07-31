@@ -40,3 +40,8 @@ Summary of papers on visual place recognition.
 | [MIXVPR++: Enhanced Visual Place Recognition With Hierarchical-Region Feature-Mixer and Adaptive Gabor Texture Fuser](https://ieeexplore.ieee.org/document/10777538) | Nie | NEU | RAL 2025 |  | [BibTex](citations/Nie_2025_MIXVPR++.txt) |
 
 
+### CNN-based
+
+| Title | First Author | Institution | Venue | Github | Bibtex |
+|---|---|---|---|---|---|
+| [TransVPR: Transformer-Based Place Recognition with  Multi-Level Attention Aggregation]([https://eprints.qut.edu.au/79662/](https://ieeexplore.ieee.org/document/9879296)) | Ruotong Wang | XJTU | CVPR 2022 |  | [BibTex](citations/Wang_2022_TransVPR.txt) |
